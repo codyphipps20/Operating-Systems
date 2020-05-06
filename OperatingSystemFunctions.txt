@@ -2,3 +2,5 @@ An OS function is to allow the user to talk to the computer. Its primary functio
 
 Another OS function, at least with most modern OS's, is to allow me to use the internet. Modern Os's allow me to talk to other
 people online. Also to browse and do things using a wireless or ethernet connection to my router.
+
+A lot of Os's allow the user to download things and put things onto the computer. This allows the computer to access the downloaded thing at any time. A lot of modern OS's allow you to do this.
