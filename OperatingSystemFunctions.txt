@@ -1,0 +1,2 @@
+An OS function is to allow the user to talk to the computer. It also allows them to talk to other people online depending on the OS.
+However, its primary function is to be able to fascilitate user interaction with the computer.
