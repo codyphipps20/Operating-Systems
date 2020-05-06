@@ -1,2 +1,4 @@
-An OS function is to allow the user to talk to the computer. It also allows them to talk to other people online depending on the OS.
-However, its primary function is to be able to fascilitate user interaction with the computer.
+An OS function is to allow the user to talk to the computer. Its primary function is to be able to fascilitate user interaction with the computer. To allow me to do stuff with the computer.
+
+Another OS function, at least with most modern OS's, is to allow me to use the internet. Modern Os's allow me to talk to other
+people online. Also to browse and do things using a wireless or ethernet connection to my router.
